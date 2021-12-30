@@ -1,0 +1,234 @@
+30-Dec-21 23:44:20 - Vehicle Plate Inference Engine
+30-Dec-21 23:44:20 - Process image 1
+30-Dec-21 23:44:20 - Load Image seconds 0.0
+30-Dec-21 23:44:20 - Prediction seconds 0.2499995231628418
+30-Dec-21 23:44:20 - Vehicle Plate Detector Prediction  license_plate: 0.58
+30-Dec-21 23:44:20 - Process image 2
+30-Dec-21 23:44:20 - Load Image seconds 0.0312504768371582
+30-Dec-21 23:44:20 - Prediction seconds 0.1562519073486328
+30-Dec-21 23:44:20 - Process image 3
+30-Dec-21 23:44:20 - Load Image seconds 0.0
+30-Dec-21 23:44:21 - Prediction seconds 0.17188048362731934
+30-Dec-21 23:44:21 - Process image 4
+30-Dec-21 23:44:21 - Load Image seconds 0.0
+30-Dec-21 23:44:21 - Prediction seconds 0.15625381469726562
+30-Dec-21 23:44:21 - Vehicle Plate Detector Prediction  license_plate: 0.99
+30-Dec-21 23:44:21 - Process image 5
+30-Dec-21 23:44:21 - Load Image seconds 0.0
+30-Dec-21 23:44:21 - Prediction seconds 0.1562519073486328
+30-Dec-21 23:44:21 - Vehicle Plate Detector Prediction  license_plate: 0.89
+30-Dec-21 23:44:21 - Process image 6
+30-Dec-21 23:44:21 - Load Image seconds 0.0
+30-Dec-21 23:44:21 - Prediction seconds 0.15625667572021484
+30-Dec-21 23:44:21 - Vehicle Plate Detector Prediction  license_plate: 0.51
+30-Dec-21 23:44:21 - Process image 7
+30-Dec-21 23:44:21 - Load Image seconds 0.0
+30-Dec-21 23:44:21 - Prediction seconds 0.15625786781311035
+30-Dec-21 23:44:21 - Process image 8
+30-Dec-21 23:44:21 - Load Image seconds 0.0
+30-Dec-21 23:44:21 - Prediction seconds 0.17186975479125977
+30-Dec-21 23:44:21 - Vehicle Plate Detector Prediction  license_plate: 1.00
+30-Dec-21 23:44:21 - Process image 9
+30-Dec-21 23:44:21 - Load Image seconds 0.0
+30-Dec-21 23:44:22 - Prediction seconds 0.15625452995300293
+30-Dec-21 23:44:22 - Process image 10
+30-Dec-21 23:44:22 - Load Image seconds 0.0
+30-Dec-21 23:44:22 - Prediction seconds 0.15625905990600586
+30-Dec-21 23:44:22 - Process image 11
+30-Dec-21 23:44:22 - Load Image seconds 0.0
+30-Dec-21 23:44:22 - Prediction seconds 0.17186689376831055
+30-Dec-21 23:44:22 - Vehicle Plate Detector Prediction  license_plate: 1.00
+30-Dec-21 23:44:22 - Process image 12
+30-Dec-21 23:44:22 - Load Image seconds 0.0
+30-Dec-21 23:44:22 - Prediction seconds 0.1562504768371582
+30-Dec-21 23:44:22 - Process image 13
+30-Dec-21 23:44:22 - Load Image seconds 0.0
+30-Dec-21 23:44:22 - Prediction seconds 0.1718745231628418
+30-Dec-21 23:44:22 - Vehicle Plate Detector Prediction  license_plate: 0.98
+30-Dec-21 23:44:22 - Process image 14
+30-Dec-21 23:44:22 - Load Image seconds 0.04687380790710449
+30-Dec-21 23:44:22 - Prediction seconds 0.15625357627868652
+30-Dec-21 23:44:22 - Process image 15
+30-Dec-21 23:44:22 - Load Image seconds 0.0
+30-Dec-21 23:44:23 - Prediction seconds 0.1718761920928955
+30-Dec-21 23:44:23 - Vehicle Plate Detector Prediction  license_plate: 0.46
+30-Dec-21 23:44:23 - Process image 16
+30-Dec-21 23:44:23 - Load Image seconds 0.015622377395629883
+30-Dec-21 23:44:23 - Prediction seconds 0.15625643730163574
+30-Dec-21 23:44:23 - Process image 17
+30-Dec-21 23:44:23 - Load Image seconds 0.0
+30-Dec-21 23:44:23 - Prediction seconds 0.1562480926513672
+30-Dec-21 23:44:23 - Process image 18
+30-Dec-21 23:44:23 - Load Image seconds 0.0
+30-Dec-21 23:44:23 - Prediction seconds 0.1718764305114746
+30-Dec-21 23:44:23 - Vehicle Plate Detector Prediction  license_plate: 0.99
+30-Dec-21 23:44:23 - Process image 19
+30-Dec-21 23:44:23 - Load Image seconds 0.0
+30-Dec-21 23:44:23 - Prediction seconds 0.17187166213989258
+30-Dec-21 23:44:23 - Vehicle Plate Detector Prediction  license_plate: 0.99
+30-Dec-21 23:44:23 - Process image 20
+30-Dec-21 23:44:23 - Load Image seconds 0.0
+30-Dec-21 23:44:23 - Prediction seconds 0.15625667572021484
+30-Dec-21 23:44:23 - Vehicle Plate Detector Prediction  license_plate: 0.83
+30-Dec-21 23:44:23 - Process image 21
+30-Dec-21 23:44:23 - Load Image seconds 0.0
+30-Dec-21 23:44:24 - Prediction seconds 0.15625238418579102
+30-Dec-21 23:44:24 - Vehicle Plate Detector Prediction  license_plate: 0.86
+30-Dec-21 23:44:24 - Process image 22
+30-Dec-21 23:44:24 - Load Image seconds 0.0
+30-Dec-21 23:44:24 - Prediction seconds 0.15625953674316406
+30-Dec-21 23:44:24 - Vehicle Plate Detector Prediction  license_plate: 0.64
+30-Dec-21 23:44:24 - Process image 23
+30-Dec-21 23:44:24 - Load Image seconds 0.0
+30-Dec-21 23:44:24 - Prediction seconds 0.1562488079071045
+30-Dec-21 23:44:24 - Vehicle Plate Detector Prediction  license_plate: 0.50
+30-Dec-21 23:44:24 - Process image 24
+30-Dec-21 23:44:24 - Load Image seconds 0.015623331069946289
+30-Dec-21 23:44:24 - Prediction seconds 0.1562511920928955
+30-Dec-21 23:44:24 - Vehicle Plate Detector Prediction  license_plate: 1.00
+30-Dec-21 23:44:24 - Process image 25
+30-Dec-21 23:44:24 - Load Image seconds 0.0
+30-Dec-21 23:44:24 - Prediction seconds 0.1562509536743164
+30-Dec-21 23:44:24 - Process image 26
+30-Dec-21 23:44:24 - Load Image seconds 0.015624523162841797
+30-Dec-21 23:44:24 - Prediction seconds 0.15625572204589844
+30-Dec-21 23:44:24 - Vehicle Plate Detector Prediction  license_plate: 1.00
+30-Dec-21 23:44:24 - Process image 27
+30-Dec-21 23:44:24 - Load Image seconds 0.0
+30-Dec-21 23:44:25 - Prediction seconds 0.1718761920928955
+30-Dec-21 23:44:25 - Vehicle Plate Detector Prediction  license_plate: 0.99
+30-Dec-21 23:44:25 - Process image 28
+30-Dec-21 23:44:25 - Load Image seconds 0.0
+30-Dec-21 23:44:25 - Prediction seconds 0.1562509536743164
+30-Dec-21 23:44:25 - Vehicle Plate Detector Prediction  license_plate: 0.99
+30-Dec-21 23:44:25 - Process image 29
+30-Dec-21 23:44:25 - Load Image seconds 0.0
+30-Dec-21 23:44:25 - Prediction seconds 0.1562519073486328
+30-Dec-21 23:44:25 - Vehicle Plate Detector Prediction  license_plate: 0.96
+30-Dec-21 23:44:25 - Process image 30
+30-Dec-21 23:44:25 - Load Image seconds 0.0
+30-Dec-21 23:44:25 - Prediction seconds 0.1718740463256836
+30-Dec-21 23:44:25 - Vehicle Plate Detector Prediction  license_plate: 0.99
+30-Dec-21 23:44:25 - Process image 31
+30-Dec-21 23:44:25 - Load Image seconds 0.0
+30-Dec-21 23:44:25 - Prediction seconds 0.15625953674316406
+30-Dec-21 23:44:25 - Process image 32
+30-Dec-21 23:44:25 - Load Image seconds 0.0
+30-Dec-21 23:44:25 - Prediction seconds 0.15625214576721191
+30-Dec-21 23:44:25 - Vehicle Plate Detector Prediction  license_plate: 0.64
+30-Dec-21 23:44:25 - Process image 33
+30-Dec-21 23:44:25 - Load Image seconds 0.0
+30-Dec-21 23:44:26 - Prediction seconds 0.1718733310699463
+30-Dec-21 23:44:26 - Vehicle Plate Detector Prediction  license_plate: 1.00
+30-Dec-21 23:44:26 - Process image 34
+30-Dec-21 23:44:26 - Load Image seconds 0.0
+30-Dec-21 23:44:26 - Prediction seconds 0.1562509536743164
+30-Dec-21 23:44:26 - Vehicle Plate Detector Prediction  license_plate: 0.99
+30-Dec-21 23:44:26 - Process image 35
+30-Dec-21 23:44:26 - Load Image seconds 0.0
+30-Dec-21 23:44:26 - Prediction seconds 0.15627217292785645
+30-Dec-21 23:44:26 - Vehicle Plate Detector Prediction  license_plate: 0.89
+30-Dec-21 23:44:26 - Process image 36
+30-Dec-21 23:44:26 - Load Image seconds 0.0
+30-Dec-21 23:44:26 - Prediction seconds 0.1562516689300537
+30-Dec-21 23:44:26 - Process image 37
+30-Dec-21 23:44:26 - Load Image seconds 0.0
+30-Dec-21 23:44:26 - Prediction seconds 0.1562509536743164
+30-Dec-21 23:44:26 - Process image 38
+30-Dec-21 23:44:26 - Load Image seconds 0.015623331069946289
+30-Dec-21 23:44:26 - Prediction seconds 0.1562516689300537
+30-Dec-21 23:44:26 - Vehicle Plate Detector Prediction  license_plate: 1.00
+30-Dec-21 23:44:26 - Process image 39
+30-Dec-21 23:44:26 - Load Image seconds 0.0
+30-Dec-21 23:44:27 - Prediction seconds 0.1562516689300537
+30-Dec-21 23:44:27 - Process image 40
+30-Dec-21 23:44:27 - Load Image seconds 0.0
+30-Dec-21 23:44:27 - Prediction seconds 0.1562488079071045
+30-Dec-21 23:44:27 - Vehicle Plate Detector Prediction  license_plate: 0.94
+30-Dec-21 23:44:27 - Process image 41
+30-Dec-21 23:44:27 - Load Image seconds 0.0
+30-Dec-21 23:44:27 - Prediction seconds 0.15626955032348633
+30-Dec-21 23:44:27 - Vehicle Plate Detector Prediction  license_plate: 0.89
+30-Dec-21 23:44:27 - Process image 42
+30-Dec-21 23:44:27 - Load Image seconds 0.0
+30-Dec-21 23:44:27 - Prediction seconds 0.15628576278686523
+30-Dec-21 23:44:27 - Process image 43
+30-Dec-21 23:44:27 - Load Image seconds 0.015590190887451172
+30-Dec-21 23:44:27 - Prediction seconds 0.1718754768371582
+30-Dec-21 23:44:27 - Vehicle Plate Detector Prediction  license_plate: 0.85
+30-Dec-21 23:44:27 - Process image 44
+30-Dec-21 23:44:27 - Load Image seconds 0.0
+30-Dec-21 23:44:28 - Prediction seconds 0.15625214576721191
+30-Dec-21 23:44:28 - Process image 45
+30-Dec-21 23:44:28 - Load Image seconds 0.0
+30-Dec-21 23:44:28 - Prediction seconds 0.1562502384185791
+30-Dec-21 23:44:28 - Process image 46
+30-Dec-21 23:44:28 - Load Image seconds 0.0
+30-Dec-21 23:44:28 - Prediction seconds 0.1562514305114746
+30-Dec-21 23:44:28 - Process image 47
+30-Dec-21 23:44:28 - Load Image seconds 0.0
+30-Dec-21 23:44:28 - Prediction seconds 0.1562502384185791
+30-Dec-21 23:44:28 - Process image 48
+30-Dec-21 23:44:28 - Load Image seconds 0.0
+30-Dec-21 23:44:28 - Prediction seconds 0.1562654972076416
+30-Dec-21 23:44:28 - Vehicle Plate Detector Prediction  license_plate: 0.99
+30-Dec-21 23:44:28 - Process image 49
+30-Dec-21 23:44:28 - Load Image seconds 0.0
+30-Dec-21 23:44:28 - Prediction seconds 0.15623855590820312
+30-Dec-21 23:44:28 - Vehicle Plate Detector Prediction  license_plate: 0.97
+30-Dec-21 23:44:28 - Process image 50
+30-Dec-21 23:44:28 - Load Image seconds 0.015623807907104492
+30-Dec-21 23:44:29 - Prediction seconds 0.1562786102294922
+30-Dec-21 23:44:29 - Process image 51
+30-Dec-21 23:44:29 - Load Image seconds 0.0
+30-Dec-21 23:44:29 - Prediction seconds 0.17185044288635254
+30-Dec-21 23:44:29 - Vehicle Plate Detector Prediction  license_plate: 0.95
+30-Dec-21 23:44:29 - Process image 52
+30-Dec-21 23:44:29 - Load Image seconds 0.0
+30-Dec-21 23:44:29 - Prediction seconds 0.15627002716064453
+30-Dec-21 23:44:29 - Vehicle Plate Detector Prediction  license_plate: 0.99
+30-Dec-21 23:44:29 - Process image 53
+30-Dec-21 23:44:29 - Load Image seconds 0.0
+30-Dec-21 23:44:29 - Prediction seconds 0.1562504768371582
+30-Dec-21 23:44:29 - Vehicle Plate Detector Prediction  license_plate: 0.97
+30-Dec-21 23:44:29 - Process image 54
+30-Dec-21 23:44:29 - Load Image seconds 0.0
+30-Dec-21 23:44:29 - Prediction seconds 0.1562519073486328
+30-Dec-21 23:44:29 - Vehicle Plate Detector Prediction  license_plate: 0.95
+30-Dec-21 23:44:29 - Process image 55
+30-Dec-21 23:44:29 - Load Image seconds 0.0
+30-Dec-21 23:44:29 - Prediction seconds 0.15625238418579102
+30-Dec-21 23:44:29 - Vehicle Plate Detector Prediction  license_plate: 1.00
+30-Dec-21 23:44:29 - Process image 56
+30-Dec-21 23:44:29 - Load Image seconds 0.015623331069946289
+30-Dec-21 23:44:30 - Prediction seconds 0.1562519073486328
+30-Dec-21 23:44:30 - Vehicle Plate Detector Prediction  license_plate: 0.89
+30-Dec-21 23:44:30 - Process image 57
+30-Dec-21 23:44:30 - Load Image seconds 0.0
+30-Dec-21 23:44:30 - Prediction seconds 0.15625238418579102
+30-Dec-21 23:44:30 - Vehicle Plate Detector Prediction  license_plate: 0.90
+30-Dec-21 23:44:30 - Process image 58
+30-Dec-21 23:44:30 - Load Image seconds 0.0
+30-Dec-21 23:44:30 - Prediction seconds 0.15627694129943848
+30-Dec-21 23:44:30 - Vehicle Plate Detector Prediction  license_plate: 0.98
+30-Dec-21 23:44:30 - Process image 59
+30-Dec-21 23:44:30 - Load Image seconds 0.0
+30-Dec-21 23:44:30 - Prediction seconds 0.15624785423278809
+30-Dec-21 23:44:30 - Vehicle Plate Detector Prediction  license_plate: 0.99
+30-Dec-21 23:44:30 - Process image 60
+30-Dec-21 23:44:30 - Load Image seconds 0.0
+30-Dec-21 23:44:30 - Prediction seconds 0.15628790855407715
+30-Dec-21 23:44:30 - Vehicle Plate Detector Prediction  license_plate: 1.00
+30-Dec-21 23:44:30 - Process image 61
+30-Dec-21 23:44:30 - Load Image seconds 0.0
+30-Dec-21 23:44:30 - Prediction seconds 0.17187714576721191
+30-Dec-21 23:44:30 - Vehicle Plate Detector Prediction  license_plate: 0.52
+30-Dec-21 23:44:30 - Process image 62
+30-Dec-21 23:44:30 - Load Image seconds 0.0
+30-Dec-21 23:44:31 - Prediction seconds 0.17188286781311035
+30-Dec-21 23:44:31 - Vehicle Plate Detector Prediction  license_plate: 0.64
+30-Dec-21 23:44:31 - Process image 63
+30-Dec-21 23:44:31 - Load Image seconds 0.0
+30-Dec-21 23:44:31 - Prediction seconds 0.15624475479125977
+30-Dec-21 23:44:31 - Vehicle Plate Detector Prediction  license_plate: 1.00
+30-Dec-21 23:44:31 - Batch wise Prediction Time :-  {'batch_0': 4.750064134597778, 'batch_1': 4.578284740447998, 'batch_2': 0.34376001358032227}

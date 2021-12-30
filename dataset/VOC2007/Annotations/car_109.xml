@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>car_109.jpeg</filename>
+	<path>/home/sarvesh/project/LPRNet_Pytorch/data/LicensePlates/car_109.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>313</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>81</ymin>
+			<xmax>411</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>
