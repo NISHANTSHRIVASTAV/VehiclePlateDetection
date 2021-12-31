@@ -48,7 +48,7 @@ $ python eval_ssd.py --net=mb1-ssd --trained_model=models\v1_selected\mb1-ssd-Ep
 Accuracy on Test Images - 78 % <br />
 
 Total Test Images - 63
-### On CPU
+### On CPUs
 
 Inference Time for each image - 0.140625 <br />
 Batch wise Prediction Time with batch-size=30 
