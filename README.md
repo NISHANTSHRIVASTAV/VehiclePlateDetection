@@ -27,7 +27,7 @@ Go to dataset directory i.e. dataset\VOC2007 and run
 ```
 $ python vision\datasets\generate_vocdata.py labels.txt
 ```
-### Train the model
+### Train the model with multiple GPUs
 ```
 $ python train_ssd.py --dataset-type=voc --data=dataset\VOC2007\ --model-dir=models\custom_trained_model\mb1-ssd-Epoch-211-Loss-2.275852680206299.pth --batch-size=36 --epochs=150 --workers=0 --use-cuda=True --pretrained-ssd=models\pretrained_model\mobilenet-v1-ssd-mp-0_675.pth --gpu-devices 0 1 2 
 ```
