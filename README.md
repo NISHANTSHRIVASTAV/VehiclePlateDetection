@@ -32,7 +32,7 @@ $ python vision\datasets\generate_vocdata.py labels.txt
 $ python train_ssd.py --dataset-type=voc --data=dataset\VOC2007\ --model-dir=models\custom_trained_model\mb1-ssd-Epoch-211-Loss-2.275852680206299.pth --batch-size=36 --epochs=150 --workers=0 --use-cuda=True --pretrained-ssd=models\pretrained_model\mobilenet-v1-ssd-mp-0_675.pth --gpu-devices 0 1 2 
 ```
 ### Inference/Prediction
-To run the Vehicle Plate Detector Inference Engine which saves the response with bounding boxes in results directory
+To run the Vehicle Plate Detector Inference Engine which saves the response with bounding boxes in \results directory
 ```
 $ python VehiclePlateDetection.py 
 ```
@@ -45,7 +45,7 @@ $ python eval_ssd.py --net=mb1-ssd --trained_model=models\v1_selected\mb1-ssd-Ep
 ## Results
 
 
-Accuracy - 78 % <br />
+Accuracy on Test Images - 78 % <br />
 
 Total Test Images - 63
 ### On CPU
