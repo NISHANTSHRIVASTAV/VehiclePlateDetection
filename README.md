@@ -14,9 +14,9 @@ $ git clone https://github.com/NISHANTSHRIVASTAV/VehiclePlateDetection.git
 $ cd VehiclePlateDetection
 ```
 
-3. Now, run the following command in your Terminal/Command Prompt to install the libraries required
+3. Now, run the following command in the terminal/command prompt to install the required libraries
 ```
-$ pip3 install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## :bulb: Working
@@ -44,11 +44,11 @@ $ python eval_ssd.py --net=mb1-ssd --trained_model=models\v1_selected\mb1-ssd-Ep
 ```
 ## Results
 
-Accuracy - 78 %
+Accuracy - 78 % <br />
 Total Test Images - 63
 ### On CPU
 
-Inference Time for each image - 0.140625
+Inference Time for each image - 0.140625 <br />
 Batch wise Prediction Time
 ```json
 {'batch_0': 4.4845263957977295, 'batch_1': 4.359519004821777, 'batch_2': 0.29688358306884766}
@@ -56,7 +56,7 @@ Batch wise Prediction Time
 
 ### On GPUs
 
-Inference Time for each image - 0.015690
+Inference Time for each image - 0.015690 <br />
 Batch wise Prediction Time
 ```json
 {'batch_0': 1.7811949253082275, 'batch_1': 0.45837974548339844, 'batch_2': 0.031238794326782227}
