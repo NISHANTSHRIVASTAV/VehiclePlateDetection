@@ -29,10 +29,10 @@ $ python vision\datasets\generate_vocdata.py labels.txt
 ```
 ### Train the model
 ```
-$ python train_ssd.py --dataset-type=voc --data=dataset\VOC2007\ --model-dir=models\custom_trained_model\ --batch-size=36 --epochs=150 --workers=0 --use-cuda=True --pretrained-ssd=models\pretrained_model\mobilenet-v1-ssd-mp-0_675.pth --gpu-devices 0 1 2 
+$ python train_ssd.py --dataset-type=voc --data=dataset\VOC2007\ --model-dir=models\custom_trained_model\mb1-ssd-Epoch-211-Loss-2.275852680206299.pth --batch-size=36 --epochs=150 --workers=0 --use-cuda=True --pretrained-ssd=models\pretrained_model\mobilenet-v1-ssd-mp-0_675.pth --gpu-devices 0 1 2 
 ```
 ### Inference/Prediction
-To run the Vehicle Plate Detector Inference Engine
+To run the Vehicle Plate Detector Inference Engine which saves the response with bounding boxes in results directory
 ```
 $ python VehiclePlateDetection.py 
 ```
@@ -40,16 +40,18 @@ $ python VehiclePlateDetection.py
 ### Evaluation
 To run the Vehicle Plate Detector Inference Engine
 ```
-$ python eval_ssd.py --net=mb1-ssd --trained_model=models\v1_selected\mb1-ssd-Epoch-60-Loss-2.188499927520752.pth --dataset_type=voc --dataset=dataset\VOC2007\ --label_file=labels\labels.txt --use_cuda=True --eval_dir=eval 
+$ python eval_ssd.py --net=mb1-ssd --trained_model=models\v1_selected\mb1-ssd-Epoch-211-Loss-2.275852680206299.pth --dataset_type=voc --dataset=dataset\VOC2007\ --label_file=labels\labels.txt --use_cuda=True --eval_dir=eval 
 ```
 ## Results
 
+
 Accuracy - 78 % <br />
+
 Total Test Images - 63
 ### On CPU
 
 Inference Time for each image - 0.140625 <br />
-Batch wise Prediction Time
+Batch wise Prediction Time with batch-size=30 
 ```json
 {'batch_0': 4.4845263957977295, 'batch_1': 4.359519004821777, 'batch_2': 0.29688358306884766}
 ```
@@ -57,7 +59,7 @@ Batch wise Prediction Time
 ### On GPUs
 
 Inference Time for each image - 0.015690 <br />
-Batch wise Prediction Time
+Batch wise Prediction Time with batch-size=30
 ```json
 {'batch_0': 1.7811949253082275, 'batch_1': 0.45837974548339844, 'batch_2': 0.031238794326782227}
 ```
