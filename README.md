@@ -40,7 +40,7 @@ $ python VehiclePlateDetection.py
 ### Evaluation
 To run the Vehicle Plate Detector Inference Engine
 ```
-$ python eval_ssd.py --net=mb1-ssd --trained_model=models\v1_selected\mb1-ssd-Epoch-211-Loss-2.275852680206299.pth --dataset_type=voc --dataset=dataset\VOC2007\ --label_file=labels\labels.txt --use_cuda=True --eval_dir=eval 
+$ python eval_ssd.py --net=mb1-ssd --trained_model=models\custom_trained\mb1-ssd-Epoch-211-Loss-2.275852680206299.pth --dataset_type=voc --dataset=dataset\VOC2007\ --label_file=labels\labels.txt --use_cuda=True --eval_dir=eval 
 ```
 ## Results
 
